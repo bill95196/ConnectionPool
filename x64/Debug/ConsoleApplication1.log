@@ -1,0 +1,11 @@
+﻿  CommonConnectionPool.cpp
+Q:\c++GUI\db\connectionpool\connectionPool\CommonConnectionPool.cpp(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Q:\c++GUI\db\connectionpool\connectionPool\CommonConnectionPool.cpp(28,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Q:\c++GUI\db\connectionpool\connectionPool\CommonConnectionPool.cpp(13,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Connection.cpp
+  main.cpp
+  pch.cpp
+  Generating Code...
+Q:\c++GUI\db\connectionpool\connectionPool\CommonConnectionPool.cpp(72): warning C4715: 'ConnectionPool::loadConfigFile': not all control paths return a value
+  LINK : Q:\c++GUI\db\connectionpool\connectionPool\x64\Debug\ConsoleApplication1.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication1.vcxproj -> Q:\c++GUI\db\connectionpool\connectionPool\x64\Debug\ConsoleApplication1.exe
